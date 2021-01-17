@@ -1,0 +1,12 @@
+{
+  "SchemaVersion": 1,
+  "Name": "buzzer",
+  "ComponentId": "ebe7d3d7-3d65-4bec-86be-4eb928168736",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "Gpio": [ "$MT3620_GPIO4" ],
+    "AllowedApplicationConnections": []
+  },
+  "ApplicationType": "Default"
+}
