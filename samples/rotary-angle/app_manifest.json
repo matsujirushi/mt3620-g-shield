@@ -1,0 +1,12 @@
+{
+  "SchemaVersion": 1,
+  "Name": "rotary-angle",
+  "ComponentId": "c78de204-5083-4209-8644-629bdb34a6d6",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "Adc": [ "$MT3620_RDB_ADC_CONTROLLER0" ],
+    "AllowedApplicationConnections": []
+  },
+  "ApplicationType": "Default"
+}
