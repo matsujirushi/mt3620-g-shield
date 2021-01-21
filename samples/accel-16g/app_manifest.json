@@ -1,0 +1,12 @@
+{
+  "SchemaVersion": 1,
+  "Name": "accel-16g",
+  "ComponentId": "5f812130-39b4-49c4-8e6a-144ec6c8f9c6",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "I2cMaster": [ "$MT3620_RDB_HEADER2_ISU0_I2C" ],
+    "AllowedApplicationConnections": []
+  },
+  "ApplicationType": "Default"
+}
