@@ -1,0 +1,12 @@
+{
+  "SchemaVersion": 1,
+  "Name": "gps",
+  "ComponentId": "2db5392b-60c0-4bd6-88aa-20cd3b17199c",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "Uart": [ "$MT3620_ISU0_UART" ],
+    "AllowedApplicationConnections": []
+  },
+  "ApplicationType": "Default"
+}
