@@ -1,4 +1,6 @@
-# mt3620-g-shield
+# MT3620 G Shield
+
+<img src="media/1.jpg" width="300">
 
 [-> Japanese](README.ja.md)
 
